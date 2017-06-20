@@ -1,0 +1,3 @@
+atouk_prod_wedding_guest_homepage:
+    path:     /
+    defaults: { _controller: AtoukProdWeddingGuestBundle:Default:index }
